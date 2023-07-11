@@ -1,0 +1,13 @@
+div{
+    color: blueviolet;
+    background-color: aquamarine;
+    padding: 50px;
+    
+}
+ol{
+    text-decoration: underline;
+}
+p{
+    background-color: aqua;
+    padding: 20px;
+}
